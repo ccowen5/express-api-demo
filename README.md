@@ -1,5 +1,3 @@
-# nodejs-demo
-
 Express API written in TypeScript, backed by PostgreSQL.
 
 ## Requirements
